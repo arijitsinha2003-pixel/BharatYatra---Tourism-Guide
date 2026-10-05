@@ -1,0 +1,6 @@
+{
+  "name": "Bharat Yatra - Incredible India Tourism Guide",
+  "description": "Comprehensive tourism guide and hotel booking portal for Kolkata, New Delhi, Rajasthan, Gujarat, Jammu & Kashmir, and top Indian attractions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
